@@ -8,7 +8,7 @@ Static local SEO site for **Henderson, NV**.
 - Unique mobile app bar (`mountain` style)
 
 ## Before launch
-1. Replace demo phone `(702) 555-0182` with real NAP
+1. Replace demo phone `(725) 444-5665` with real NAP
 2. Set real email / domain references
 3. Connect contact form to backend
 4. Add Google Business Profile Place ID (no fake review schema)
