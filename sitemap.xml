@@ -2,192 +2,522 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.poolservice-henderson.com/about</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/anthem-hills</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/anthem</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/black-mountain-vistas</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/cadence</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/downtown-henderson</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/green-valley-ranch</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/green-valley</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/horizon-ridge</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/inspirada</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/lake-las-vegas</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/macdonald-ranch</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/madeira-canyon</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/seven-hills</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/tuscany</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/west-henderson</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/areas/whitney-ranch</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/blog</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-henderson.com/blog/posts/anthem-wind-and-pools</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-henderson.com/blog/posts/acid-wash-myths-green-valley</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-henderson.com/blog/posts/black-mountain-sun-uv</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-henderson.com/blog/posts/acid-wash-myths-henderson-83</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-henderson.com/blog/posts/family-pool-safety-basics</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-henderson.com/blog/posts/autofill-stuck-anthem-hills</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-henderson.com/blog/posts/green-valley-pool-seasons</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-henderson.com/blog/posts/autofill-stuck-henderson-86</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-henderson.com/blog/posts/hoa-vendor-packets-henderson</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-henderson.com/blog/posts/automation-basics-henderson-19</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-henderson.com/blog/posts/honest-pool-company-henderson</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-henderson.com/blog/posts/automation-basics-inspirada</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-henderson.com/blog/posts/inspirada-new-build-startup</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-henderson.com/blog/posts/basket-discipline-henderson-41</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-henderson.com/blog/posts/when-to-repair-vs-replace-pump</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-henderson.com/blog/posts/basket-discipline-henderson-91</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/black-algae-henderson-62</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/black-algae-horizon-ridge</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/calcium-scale-henderson-65</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/calcium-scale-madeira-canyon</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/choose-company-black-mountain-vistas</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/choose-company-henderson-80</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/clarifier-trap-henderson-44</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/clarifier-trap-henderson-94</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/combined-chlorine-henderson-40</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/combined-chlorine-lake-las-vegas</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/cover-care-henderson-98</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/cover-care-tuscany-village</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/cya-too-high-henderson-13</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/cya-too-high-madeira-canyon</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/de-vs-cartridge-henderson-92</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/de-vs-cartridge-lake-las-vegas</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/dust-storm-checklist-henderson-02</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/dust-storm-checklist-henderson-52</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/energy-bills-anthem</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/energy-bills-henderson-49</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/fall-adjust-henderson-29</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/fall-adjust-henderson-79</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/filter-psi-guide-henderson-04</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/filter-psi-guide-macdonald-ranch</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/green-to-clear-timeline-henderson-05</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/green-to-clear-timeline-henderson-55</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/heater-not-firing-green-valley-ranch</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/heater-not-firing-henderson-68</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/hoa-gate-codes-henderson-08</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/hoa-gate-codes-henderson-58</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/july-chlorine-loss-anthem</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/july-chlorine-loss-henderson-01</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/kids-safe-clarity-henderson-23</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/kids-safe-clarity-henderson-73</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/landscaper-debris-henderson-25</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/landscaper-debris-whitney-ranch</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/leak-signs-henderson-35</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/leak-signs-henderson-85</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/liquid-vs-tabs-henderson-46</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/liquid-vs-tabs-tuscany-village</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/metal-stains-henderson-47</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/metal-stains-henderson-97</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/monsoon-week-henderson-26</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/monsoon-week-henderson-76</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/mustard-algae-henderson-11</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/mustard-algae-henderson-61</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/neighborhood-focus-anthem-hills-henderson</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/neighborhood-focus-green-valley-ranch-henderson</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/new-build-startup-henderson-38</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/new-build-startup-henderson-88</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/opening-neglected-henderson-71</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/opening-neglected-inspirada</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/party-prep-cadence</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/party-prep-henderson-22</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/pet-friendly-cadence</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/pet-friendly-henderson-74</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/ph-drift-heat-henderson-14</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/ph-drift-heat-henderson-64</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/phosphates-henderson-89</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/phosphates-seven-hills</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/photo-notes-henderson-32</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/photo-notes-henderson-82</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/pump-noise-henderson-17</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/pump-noise-henderson-67</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/robot-cleaner-henderson-20</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/robot-cleaner-henderson-70</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/route-day-green-valley</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/route-day-henderson-31</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/salt-cell-cleaning-anthem</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/salt-cell-cleaning-henderson-53</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/salt-vs-chlorine-henderson-37</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/salt-vs-chlorine-seven-hills</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/sand-filter-downtown-henderson</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/sand-filter-henderson-43</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/shock-timing-downtown-henderson</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/shock-timing-henderson-95</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/spa-vs-pool-chemistry-henderson-56</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/spa-vs-pool-chemistry-macdonald-ranch</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/spring-startup-black-mountain-vistas</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/spring-startup-henderson-28</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/str-guest-load-henderson-10</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/str-guest-load-horizon-ridge</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/tile-cleaning-anthem-hills</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/tile-cleaning-henderson-34</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/vacation-home-protocol-henderson-59</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/vacation-home-protocol-west-henderson</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/variable-speed-runtime-green-valley-ranch</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/variable-speed-runtime-henderson-16</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/weekly-vs-biweekly-henderson-07</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/weekly-vs-biweekly-west-henderson</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/winter-still-weekly-henderson-77</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-henderson.com/blog/posts/winter-still-weekly-whitney-ranch</loc>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/contact</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/faq</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/</loc>
-    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/pricing</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/service-areas</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/services/algae-recovery</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/services/filter-service</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/services/repairs-and-parts</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/services/saltwater-care</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/services/spa-service</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/services/weekly-pool-service</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-henderson.com/services</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
