@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://poolservicehenderson.com/sitemap.xml
+Sitemap: https://pool-service-henderson.com/sitemap.xml
